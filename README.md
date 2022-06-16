@@ -1,20 +1,12 @@
-<p align="center">
-  <img src="https://super.abril.com.br/wp-content/uploads/2016/09/super_imggato_digitando_0.gif" width="350">
-</p>
+<img align="right" width="250px" style="margin-top:-20px margin-right:40px" src="https://media.giphy.com/media/ypqHf6pQ5kQEg/giphy.gif">
 
-<div dsplay="inline-block">
- 
- <h1 align="left">Jeniffer Bittencourt</h1>
- <a href="https://www.instagram.com/jeniblo_dev/">
-    <img align="left" width="80px" src="https://i.ibb.co/qkGSp1D/instagram.png" alt="instagram" style="vertical-align:top;">
-  </a> 
-  <a href="https://twitter.com/jeniblo_dev">
-    <img align="left" width="80px" src="https://i.ibb.co/ZcFHDpv/twitter.png" alt="twitter" style="vertical-align:top;">
-  </a>
-  <a href="https://www.linkedin.com/in/jeniffer-bittencourt">
-    <img width="80px" src="https://i.ibb.co/RyZx12b/linkedin.png" alt="linkedin" style="vertical-align:top;">
-  </a>
-</div>
+</br>
+</br>
+
+<a href="https://www.instagram.com/lucashardman" target="_blank"><img align="left" alt="Instagram" width="22px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/insta.svg" />
+<a href="https://twitter.com/lucashardman" target="_blank"><img align="left" alt="Twitter" width="22px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/twitter.svg" />
+<a href="https://www.linkedin.com/in/lucashardman" target="_blank"><img align="left" alt="LinkedIn" width="22px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/linkedin.svg" />
+
 
 
 
