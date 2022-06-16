@@ -11,9 +11,9 @@ Me chamo Lucas Hardman e sou do Rio de Janeiro. Eu estudo computação desde 201
 <br>
 <br>
 <br>
- <br>
 <br>
-  <br>
+<br>
+<br>
 <br>
 
 <div>
