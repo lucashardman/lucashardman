@@ -16,6 +16,7 @@ Me chamo Lucas Hardman e sou do Rio de Janeiro. Eu estudo computação desde 201
 <br>
 <br>
 
+
 <div>
 <a href="https://github.com/lucashardman">
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucashardman&layout=compact&langs_count=8&theme=dracula&count_private=true"/>
