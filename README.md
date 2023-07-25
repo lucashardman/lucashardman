@@ -1,7 +1,7 @@
 # Hi, I'm Lucas! <img src="https://media.giphy.com/media/ttFzFD9WgfGcVjbk42/giphy.gif" width="60px"> 
-[<img align="left" alt="Portfolio" width="22px" src="https://www.datocms-assets.com/95711/1690252245-logo-simples.svg" />](https://www.lucashardman.com.br)
-[<img align="left" alt="LinkedIn" width="22px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/linkedin.svg" />](https://www.linkedin.com/in/lucashardman)
-[<img align="left" alt="Instagram" width="22px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/insta.svg" />](https://www.instagram.com/lucashardman)
+[<img align="left" alt="Portfolio" width="22px" src="https://github.com/lucashardman/lucashardman/blob/main/assets/logos/logo-simples.svg" />](https://www.lucashardman.com.br)
+[<img align="left" alt="LinkedIn" width="22px" src="https://github.com/lucashardman/lucashardman/blob/main/assets/logos/linkedin.svg" />](https://www.linkedin.com/in/lucashardman)
+[<img align="left" alt="Instagram" width="22px" src="https://github.com/lucashardman/lucashardman/blob/main/assets/logos/insta.svg" />](https://www.instagram.com/lucashardman)
 <br/><br/>
 
 ## 🔧 Technologies and tools
