@@ -14,7 +14,7 @@
 
 [<img alt="FastAPI" src="https://img.shields.io/badge/FastAPI%20-%23009688.svg?&style=for-the-badge&logo=fastapi&logoColor=%23FFFFFF"/>](https://fastapi.tiangolo.com/) 
 [<img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap%20-%237952B3.svg?&style=for-the-badge&logo=bootstrap&logoColor=%23FFFFFF"/>](https://getbootstrap.com/) 
-[<img alt="React" src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>](https://react.dev/) 
+[<img alt="React" src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB"/>](https://react.dev/) 
 [<img alt="Next" src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white" />](https://nextjs.org/)
 
 ### Databases
