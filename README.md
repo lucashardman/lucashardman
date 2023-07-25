@@ -29,4 +29,4 @@
 <br/><br/>
 
 ## 📈 Github Stats
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lucashardman&theme=default)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lucashardman&theme=tokyonight)
