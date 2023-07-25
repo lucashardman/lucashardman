@@ -1,24 +1,32 @@
-<img align="right" width="250px" style="margin-top:-20px margin-right:40px" src="https://media.giphy.com/media/ypqHf6pQ5kQEg/giphy.gif">
+# Hi, I'm Lucas! <img src="https://media.giphy.com/media/ttFzFD9WgfGcVjbk42/giphy.gif" width="60px"> 
+[<img align="left" alt="Portfolio" width="22px" src="https://www.datocms-assets.com/95711/1690252245-logo-simples.svg" />](https://www.lucashardman.com.br)
+[<img align="left" alt="LinkedIn" width="22px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/linkedin.svg" />](https://www.linkedin.com/in/lucashardman)
+[<img align="left" alt="Instagram" width="22px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/insta.svg" />](https://www.instagram.com/lucashardman)
+<br/><br/>
 
-### Fala Pessoal!!  ☘️ 
+## 🔧 Technologies and tools
 
-Me chamo Lucas Hardman e sou do Rio de Janeiro. Eu estudo computação desde 2011 e gosto de estar sempre aprendendo mais. Atualmente eu trabalho na Nodis como desenvolvedor back-end.
+### Main Languages 
+[<img alt="JavaScript" src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>](https://developer.mozilla.org/en-US/docs/Web/javascript) 
+[<img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>](https://www.python.org/) 
 
-<a href="https://www.instagram.com/lucashardman" target="_blank"><img align="left" alt="Instagram" width="22px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/insta.svg" />
-<a href="https://twitter.com/lucashardman" target="_blank"><img align="left" alt="Twitter" width="22px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/twitter.svg" />
-<a href="https://www.linkedin.com/in/lucashardman" target="_blank"><img align="left" alt="LinkedIn" width="22px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/linkedin.svg" />
+### Libs & Frameworks 
 
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
+[<img alt="FastAPI" src="https://img.shields.io/badge/FastAPI%20-%23009688.svg?&style=for-the-badge&logo=fastapi&logoColor=%23FFFFFF"/>](https://fastapi.tiangolo.com/) 
+[<img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap%20-%237952B3.svg?&style=for-the-badge&logo=bootstrap&logoColor=%23FFFFFF"/>](https://getbootstrap.com/) 
+[<img alt="React" src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>](https://react.dev/) 
+[<img alt="Next" src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white" />](https://nextjs.org/)
 
+### Databases
+[<img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-%234ea94b.svg?&style=for-the-badge&logo=mongodb&logoColor=white"/>](https://www.mongodb.com/) 
+[<img alt="PostgreSQL" src="https://img.shields.io/badge/postgresql%20-%230064a5.svg?&style=for-the-badge&logo=postgresql&logoColor=white"/>](https://www.postgresql.org/)
+[<img alt="Redis" src="https://img.shields.io/badge/Redis%20-%23DC382D.svg?&style=for-the-badge&logo=redis&logoColor=%23FFFFFF"/>](https://redis.io/) 
+[<img alt="ElasticSearch" src="https://img.shields.io/badge/ElasticSearch%20-%23005571.svg?&style=for-the-badge&logo=elasticsearch&logoColor=%23FFFFFF"/>](https://www.elastic.co/) 
 
-<div>
-<a href="https://github.com/lucashardman">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucashardman&layout=compact&langs_count=8&theme=dracula&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=lucashardman&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-</div>
+### Other
+[<img alt="RabbitMQ" src ="https://img.shields.io/badge/RabbitMQ%20-%23FF6600.svg?&style=for-the-badge&logo=rabbitmq&logoColor=%23FFFFFF"/>](https://www.rabbitmq.com/) 
+[<img alt="DatoCMS" src="https://img.shields.io/badge/DatoCMS%20-%23FF7751.svg?&style=for-the-badge&logo=datocms&logoColor=%23FFFFFF"/>](https://www.datocms.com/) 
+<br/><br/>
+
+## 📈 Github Stats
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lucashardman&theme=default)
